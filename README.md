@@ -105,7 +105,6 @@ Upload your video in Youtube and paste your video-id here
 
 
 
-https://youtu.be/sOSul_Wl1Oo?si=vr3JhfOIlhm46SBq
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
